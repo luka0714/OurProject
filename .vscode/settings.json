@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.fontFamily": "consolas",
+    "editor.codeLensFontFamily": "Menlo for Powerline",
+    "python.pythonPath": "/home/thy/miniconda3/envs/open-mmlab/bin/python"
+}

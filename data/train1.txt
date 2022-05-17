@@ -1,0 +1,9 @@
+data/frame_215.png data/frame_216.png
+data/frame_360.png data/frame_361.png
+data/frame_279.png data/frame_280.png
+data/frame_494.png data/frame_495.png
+data/frame_2.png data/frame_3.png
+data/frame_281.png data/frame_282.png
+data/frame_432.png data/frame_433.png
+data/frame_326.png data/frame_327.png
+data/frame_27.png data/frame_28.png
